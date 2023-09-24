@@ -16,4 +16,4 @@ Reposistório para armazenar resumos do curso Versionamento de Código com Git e
 git init
 ```
 
-teste alteração
+teste alteração2
